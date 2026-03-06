@@ -1,15 +1,17 @@
-const images = [
-    "bild1.jpg",
-    "bild2.jpg",
-    "bild3.jpg"
-];
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diashow</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-let index = 0;
-const slide = document.getElementById("slide");
+<div id="slideshow">
+    <img id="slide" src="Bilder/bild1.jpg" alt="Diashow Bild">
+</div>
 
-function changeImage() {
-    index = (index + 1) % images.length;
-    slide.src = images[index];
-}
-
-setInterval(changeImage, 4000);
+<script src="script.js"></script>
+</body>
+</html>
