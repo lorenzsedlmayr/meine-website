@@ -6,7 +6,7 @@ title: "Care! A Health Centre for the City"
 },
 
 {
-img: "./bilder/ls-conversion-carpentry.jpg",
+img: "./bilder/ls-conversion-carpentry.gif",
 title: "Conversion of a Carpentry"
 },
 
