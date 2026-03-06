@@ -59,7 +59,7 @@ justify-content:center;
 
 .viewer{
 
-display:flex;
+display:fixed;
 flex-direction:column;
 align-items:center;
 justify-content:center;
