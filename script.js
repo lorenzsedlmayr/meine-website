@@ -1,18 +1,18 @@
 const slides = [
 
 {
-img: "./images/projekt1.jpg",
-title: "Projekt 1"
+img: "./images/ls-care-health-centre.jpg",
+title: "Care! A Health Centre for the City"
 },
 
 {
-img: "./images/projekt2.jpg",
-title: "Projekt 2"
+img: "./images/ls-conversion-carpentry.jpg",
+title: "Conversion of a Carpentry"
 },
 
 {
-img: "./images/projekt3.jpg",
-title: "Projekt 3"
+img: "./images/ls-namib-desert-cloud.jpg",
+title: "Research on climate adaptive architecture"
 }
 
 ]
